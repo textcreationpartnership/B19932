@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the more exact and punctual collecting and answering His Majesties revenue arising upon fire-hearths and stoves.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19932</idno><idno type="EEBO-CITATION">99884439_191226</idno>
+  <idno type="VID">191226</idno>
+  <idno type="EEBO-PROQUEST">2264209963</idno>
+  
+            <idno type="STC">Wing C3495</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[37]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[210]</idno>
+            <idno type="STC">ESTC R214841</idno>
+            <idno type="PROQUEST">ocm99884439</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884439e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19932)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191226)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[37]; C18:1[209])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the more exact and punctual collecting and answering His Majesties revenue arising upon fire-hearths and stoves.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker, His Majesties printers,</publisher>
+                  <pubPlace>In the Savoy, [i.e. London] :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: Given at our court at Whitehall the 19th day of December, in the 18th year of Our Reign. 1666. God save the King.</note>
+                  <note>Arms 75; Steele notation: very  have  2) of  an-.</note>
+                  <note>Copy at reel C18:1[209] consists of single sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Taxes, Farming of --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:191226:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal arms of England, circa 1666</figDesc>
+                  <p>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+                  <p>DIEV ET MON DROI<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </p>
+               </figure> By the King. A PROCLAMATION For the more exact and punctual Collecting and Answering His Majesties Revenue arising upon Fire-hearths and Stoves.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas Our Revenue arising by Fire-hearths and Stoves, hath of late time beén very much in arrear, and continues still behind and unpaid in many parts of Our Kingdom, partly through the misdemeanours of some persons who have presumed to conceal many Fire-hearths and Stoves, for which by Law they are chargeable, And to prevent the discovery of such Frauds, refuse to permit Our Officers or their Deputies to make their views, or to take Distresses; And partly through the neglect or connivence of several Iustices of Peace, chief Magistrates, Ministers, Constables, and Churchwardens, who have given too much countenance to illegal and undue Certificates, and too little assistance to Our Officers and their Deputies in Collecting the said Revenue, whom they have in some places suffered to be reproached, and sometimes assaulted, without punishing the Malefactors, although it be the Duty of all Constables, Headboroughs, and other inferior Officers, to accompany, assist, and defend Our Officers and their Deputies in their Collections, and the duty of all Iustices of the Peace, and chief Magistrates in their respective Places and Callings, and with the utmost of their Authority to support Our Revenue, so well established by Law, and so necessary to the safety and defence of Vs and Our good Subjects: We therefore resolving for the time to come to take a strict Accompt of all such persons as shall hereafter be found wanting in their Duty to Vs, and to the Laws of Our Kingdom, have thought fit by the advice of Our Council, to Declare, and do hereby Publish Our Royal Will and Pleasure, That all Arrears of Our said Revenue, as well those which were incurred at or before the Feast of St. <hi>Michael,</hi> in the year of Our Lord One thousand six hundred sixty and five, as those which have incurred since, and all future growing duties, shall forthwith, and with all possible speed and diligence, be collected and levied by, and paid unto Our respective Officers and their Deputies appointed for that purpose; That is to say, What was due, at or before <hi>Michaelmas</hi> 1665. to such Receivers or Collectors as already are, or shall be Commissionated by Vs in pursuance of the Act of Parliament in that behalf, and to none other; And what did grow due for the half-year ended at <hi>Lady</hi> day 1666. and not before, and so forward, to the Farmers of Our said Revenue, their Sub-farmers and Substitutes during their Term; The said Farmers, their Sub-farmers or Substitutes having no Authority, nor being any way concerned in the Receiving or Collecting any part of the said Revenue which did grow due before Our <hi>Lady</hi> day 1666. aforesaid, nor of any Penalty or Forfeiture which was not incurred till after <hi>Michaelmas</hi> 1665. And We do hereby straitly Charge and Command all Iustices of Peace, chief Magistrates, Headbo<g ref="char:EOLhyphen"/>roughs, Constables, Tythingmen, and all other Officers and Ministers of Iustice whom it doth or may concern, That they be aiding and assisting to Our said Officers and their Deputies in the Collecting and Le<g ref="char:EOLhyphen"/>vying the said Arrears; and also in the Collecting and Levying all such further sums of money as hereafter shall grow due and payable for or by reason of any Fire-hearths or Stoves, according to the utmost of their power: And herein We do expect and require from them and every of them, so vigorous and effectual assi<g ref="char:EOLhyphen"/>stance, that all concealment of any Hearths or Stoves may be speédily detected, all illegal and undue Certifi<g ref="char:EOLhyphen"/>cates discharged for exempting of any persons, all obstructions in the Collecting of Our said Revenue removed, and all persons which shall assault or affront Our Officers or their Deputies either in word or deéd, exempla<g ref="char:EOLhyphen"/>rily punished, upon pain of Our high Displeasure, and of being proceéded against as Contemners of Our Royal Authority, and as persons ill affected to the Peace and Safety of Our Kingdome. And to the end Our Will and Pleasure herein may be made known, We do hereby Will and Require all Sheriffs, Mayors and Bayliffs in the several and respective Counties, Cities, and Towns-corporate of this Our Realm, to cause this Our Proclamation to be Published in all and every the Market-places within their Limits, upon some Market-day within Fourteén days next after their Receipt thereof, as they will an<g ref="char:EOLhyphen"/>swer the contrary at their perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at Whitehall</hi>
+                  <date>
+                     <hi>the</hi> 19<seg rend="sup">th</seg>
+                     <hi>day of December, in the</hi> 18<seg rend="sup">th</seg>
+                     <hi>year of Our Reign.</hi> 1666.</date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Assigns of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> His Majesties Printers, 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
